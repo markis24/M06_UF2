@@ -36,7 +36,9 @@ function arrayColores() {
 }
 
 // Mensaje indicando que es el ejercicio de un array con 6 colores
-document.write("<p>Este es el ejercicio de Array con 6 colores</p>");
+document.write("<h2>Primer Ejercicio de Arrays: Array de 6 colores</h2>");
+
+
 
 // Llamada a la función para ejecutar el código
 arrayColores();
